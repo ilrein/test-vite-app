@@ -12,6 +12,6 @@
     "vite": "^4.0.0"
   },
   "dependencies": {
-    "airplane-ui": "^0.0.1"
+    "airplane-ui": "^0.0.10"
   }
 }
